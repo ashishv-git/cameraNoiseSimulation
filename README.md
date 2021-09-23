@@ -19,7 +19,7 @@ The program may be executed by running the `CameraNoiseSimulation.m` script file
 
 
 #### Results:
-The simulation results for different number (10^4 to 10^8) of photons are in `imageResults` folder. For each choice of photon numbers, there are three simulated image outputs:
+The simulation results for different number (10^4 to 10^8) of photons are in `imageResults` folder. For each choice of number of photons, there are three simulated image outputs:
 
 (1) Poission realization
 
